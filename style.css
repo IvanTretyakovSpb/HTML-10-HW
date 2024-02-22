@@ -177,6 +177,10 @@ a {
     padding-left: 64px;
 }
 
+.my-text-pink {
+    color: #F16D7F;
+}
+
 .sale {
     display: grid;
     gap: 30px;
@@ -609,6 +613,8 @@ a {
     }
     .sale {
         margin: auto;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .product-box {
         margin-right: 0px;
@@ -622,6 +628,8 @@ a {
         gap: 30px;
         background-color: #f8f8f8;
         margin-left: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .btn_BAP {
         margin: 32px 0 60px;
